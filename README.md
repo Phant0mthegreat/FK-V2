@@ -1,6 +1,8 @@
 # FK-V2
 A segunda versão da ferramenta FK, agora com bugs corrigidos e algumas mudanças no designer.
+
 discord do criador: 𝐏𝐡𝐚𝐧𝐭𝟎𝐦 𝐓𝐡𝐞 𝐆𝐫𝐞𝐚𝐭#1150
+
 ## Instalação + usar
 
 ```
